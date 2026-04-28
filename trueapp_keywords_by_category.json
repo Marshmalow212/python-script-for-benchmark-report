@@ -1,0 +1,1028 @@
+{
+  "PackageData": [
+    {
+      "content": "Unlimited Data",
+      "lang": "th"
+    },
+    {
+      "content": "5GB",
+      "lang": "th"
+    },
+    {
+      "content": "3GB",
+      "lang": "th"
+    },
+    {
+      "content": "2GB",
+      "lang": "th"
+    },
+    {
+      "content": "1GB",
+      "lang": "th"
+    },
+    {
+      "content": "9GB",
+      "lang": "th"
+    },
+    {
+      "content": "100MB",
+      "lang": "th"
+    },
+    {
+      "content": "1mbps",
+      "lang": "th"
+    },
+    {
+      "content": "4mbps",
+      "lang": "th"
+    },
+    {
+      "content": "6Mbps",
+      "lang": "th"
+    },
+    {
+      "content": "8mbps",
+      "lang": "th"
+    },
+    {
+      "content": "15 mbps",
+      "lang": "th"
+    },
+    {
+      "content": "20 mbps",
+      "lang": "th"
+    },
+    {
+      "content": "Unlimited (General)",
+      "lang": "th"
+    },
+    {
+      "content": "5G",
+      "lang": "th"
+    },
+    {
+      "content": "2G",
+      "lang": "th"
+    },
+    {
+      "content": "Net",
+      "lang": "th"
+    },
+    {
+      "content": "Internet",
+      "lang": "th"
+    },
+    {
+      "content": "Free Internet",
+      "lang": "th"
+    },
+    {
+      "content": "9 บาท (Net/Package Price)",
+      "lang": "th"
+    },
+    {
+      "content": "WiFi",
+      "lang": "th"
+    },
+    {
+      "content": "แลกเนต",
+      "lang": "th"
+    },
+    {
+      "content": "โปรเสริม",
+      "lang": "th"
+    },
+    {
+      "content": "newest",
+      "lang": "th"
+    },
+    {
+      "content": "ข้อเสนอพิเศษ",
+      "lang": "th"
+    },
+    {
+      "content": "อินเทอร์เน็ตฟรี",
+      "lang": "th"
+    },
+    {
+      "content": "โปรเน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "เน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "แพ็กเกจ",
+      "lang": "th"
+    },
+    {
+      "content": "5GB",
+      "lang": "th"
+    },
+    {
+      "content": "9บาท",
+      "lang": "th"
+    },
+    {
+      "content": "โบนัส",
+      "lang": "th"
+    },
+    {
+      "content": "เน็ต9บาท",
+      "lang": "th"
+    },
+    {
+      "content": "อินเทอร์เน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "youtube",
+      "lang": "th"
+    },
+    {
+      "content": "แจกเน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "รับเน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "รับฟรี",
+      "lang": "th"
+    },
+    {
+      "content": "สมัครเน้ตฟรี",
+      "lang": "th"
+    }
+  ],
+  "PackageVoice": [
+    {
+      "content": "9 บาท (Net/Package Price)",
+      "lang": "th"
+    },
+    {
+      "content": "นาที",
+      "lang": "th"
+    },
+    {
+      "content": "Minute",
+      "lang": "th"
+    },
+    {
+      "content": "โทรฟรี",
+      "lang": "th"
+    },
+    {
+      "content": "โทร (Call)",
+      "lang": "th"
+    },
+    {
+      "content": "โปรโทร (Call Promo)",
+      "lang": "th"
+    },
+    {
+      "content": "แลกโทร",
+      "lang": "th"
+    },
+    {
+      "content": "newest",
+      "lang": "th"
+    },
+    {
+      "content": "ข้อเสนอพิเศษ",
+      "lang": "th"
+    },
+    {
+      "content": "โทร",
+      "lang": "th"
+    },
+    {
+      "content": "ทรูมูฟ",
+      "lang": "th"
+    },
+    {
+      "content": "แพ็กเกจ",
+      "lang": "th"
+    },
+    {
+      "content": "โทรฟรี",
+      "lang": "th"
+    }
+  ],
+  "Package": [
+    {
+      "content": "SMS",
+      "lang": "th"
+    },
+    {
+      "content": "WiFi",
+      "lang": "th"
+    },
+    {
+      "content": "โปรเสริม",
+      "lang": "th"
+    },
+    {
+      "content": "ข้อเสนอพิเศษ",
+      "lang": "th"
+    },
+    {
+      "content": "โปรเน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "เน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "แพ็กเกจ",
+      "lang": "th"
+    },
+    {
+      "content": "iqiyi",
+      "lang": "th"
+    },
+    {
+      "content": "รับฟรี",
+      "lang": "th"
+    }
+  ],
+  "Travel": [
+    {
+      "content": "Roaming",
+      "lang": "th"
+    },
+    {
+      "content": "Travel (Sim/Package)",
+      "lang": "th"
+    },
+    {
+      "content": "Japan",
+      "lang": "th"
+    },
+    {
+      "content": "Singapore",
+      "lang": "th"
+    },
+    {
+      "content": "China",
+      "lang": "th"
+    },
+    {
+      "content": "Vietnam",
+      "lang": "th"
+    },
+    {
+      "content": "Taiwan",
+      "lang": "th"
+    },
+    {
+      "content": "Laos",
+      "lang": "th"
+    },
+    {
+      "content": "Hong Kong",
+      "lang": "th"
+    },
+    {
+      "content": "ไต้หวัน",
+      "lang": "th"
+    },
+    {
+      "content": "ญี่ปุ่น",
+      "lang": "th"
+    },
+    {
+      "content": "ลาว",
+      "lang": "th"
+    },
+    {
+      "content": "roaming",
+      "lang": "th"
+    },
+    {
+      "content": "โรมมิ่ง",
+      "lang": "th"
+    }
+  ],
+  "Privilege": [
+    {
+      "content": "TruePoint",
+      "lang": "th"
+    },
+    {
+      "content": "TrueYou",
+      "lang": "th"
+    },
+    {
+      "content": "5 พอย (Point Cost)",
+      "lang": "th"
+    },
+    {
+      "content": "1 พอย (Point Cost)",
+      "lang": "th"
+    },
+    {
+      "content": "โอนคะแนน/โอนพอย",
+      "lang": "th"
+    },
+    {
+      "content": "แลกพอย",
+      "lang": "th"
+    },
+    {
+      "content": "คอย (Coin)",
+      "lang": "th"
+    },
+    {
+      "content": "โอนคอย",
+      "lang": "th"
+    },
+    {
+      "content": "สิทธิพิเศษ",
+      "lang": "th"
+    },
+    {
+      "content": "newest",
+      "lang": "th"
+    },
+    {
+      "content": "ทรูพอยท์",
+      "lang": "th"
+    },
+    {
+      "content": "สิทธิพิเศษ",
+      "lang": "th"
+    },
+    {
+      "content": "newest",
+      "lang": "th"
+    },
+    {
+      "content": "ฟรี",
+      "lang": "th"
+    },
+    {
+      "content": "แลกเน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "โทรฟรี",
+      "lang": "th"
+    },
+    {
+      "content": "แจกฟรี",
+      "lang": "th"
+    },
+    {
+      "content": "รับฟรี",
+      "lang": "th"
+    },
+    {
+      "content": "ทรูพอย",
+      "lang": "th"
+    },
+    {
+      "content": "รับ",
+      "lang": "th"
+    },
+    {
+      "content": "เงินคืน",
+      "lang": "th"
+    }
+  ],
+  "EntertainmentService": [
+    {
+      "content": "Netflix",
+      "lang": "th"
+    },
+    {
+      "content": "YouTube",
+      "lang": "th"
+    },
+    {
+      "content": "iQIYI",
+      "lang": "th"
+    },
+    {
+      "content": "Viu",
+      "lang": "th"
+    },
+    {
+      "content": "WeTV",
+      "lang": "th"
+    },
+    {
+      "content": "True ID",
+      "lang": "th"
+    },
+    {
+      "content": "True Vision",
+      "lang": "th"
+    },
+    {
+      "content": "Monomax",
+      "lang": "th"
+    },
+    {
+      "content": "Disney",
+      "lang": "th"
+    },
+    {
+      "content": "Spotify",
+      "lang": "th"
+    },
+    {
+      "content": "Rov (Gaming)",
+      "lang": "th"
+    },
+    {
+      "content": "ดูบอล",
+      "lang": "th"
+    },
+    {
+      "content": "viu",
+      "lang": "th"
+    },
+    {
+      "content": "iqiyi",
+      "lang": "th"
+    },
+    {
+      "content": "wetv",
+      "lang": "th"
+    }
+  ],
+  "PrivilegePartner": [
+    {
+      "content": "7-11",
+      "lang": "th"
+    },
+    {
+      "content": "Lotus",
+      "lang": "th"
+    },
+    {
+      "content": "Lazada",
+      "lang": "th"
+    },
+    {
+      "content": "Shopee",
+      "lang": "th"
+    },
+    {
+      "content": "Grab",
+      "lang": "th"
+    },
+    {
+      "content": "Line Man",
+      "lang": "th"
+    },
+    {
+      "content": "PT",
+      "lang": "th"
+    },
+    {
+      "content": "Owndays",
+      "lang": "th"
+    },
+    {
+      "content": "Shabushi",
+      "lang": "th"
+    },
+    {
+      "content": "Sizzler",
+      "lang": "th"
+    },
+    {
+      "content": "Sukishi",
+      "lang": "th"
+    },
+    {
+      "content": "Starbucks",
+      "lang": "th"
+    },
+    {
+      "content": "True Space",
+      "lang": "th"
+    },
+    {
+      "content": "SF Cinema",
+      "lang": "th"
+    },
+    {
+      "content": "Major Cineplex",
+      "lang": "th"
+    },
+    {
+      "content": "Cafe Amazon",
+      "lang": "th"
+    },
+    {
+      "content": "Dairy Queen (DQ)",
+      "lang": "th"
+    },
+    {
+      "content": "KFC",
+      "lang": "th"
+    },
+    {
+      "content": "KOI Thé",
+      "lang": "th"
+    },
+    {
+      "content": "GAGA",
+      "lang": "th"
+    },
+    {
+      "content": "Ochaya",
+      "lang": "th"
+    },
+    {
+      "content": "Dunkin'",
+      "lang": "th"
+    },
+    {
+      "content": "Potato Corner",
+      "lang": "th"
+    },
+    {
+      "content": "Swensen's",
+      "lang": "th"
+    },
+    {
+      "content": "Auntie Anne's",
+      "lang": "th"
+    },
+    {
+      "content": "Bearhouse",
+      "lang": "th"
+    },
+    {
+      "content": "Burger King",
+      "lang": "th"
+    },
+    {
+      "content": "McDonald's (MC)",
+      "lang": "th"
+    },
+    {
+      "content": "Mister Donut",
+      "lang": "th"
+    },
+    {
+      "content": "Sushi-ro",
+      "lang": "th"
+    },
+    {
+      "content": "Taobin",
+      "lang": "th"
+    },
+    {
+      "content": "All Cafe (7-11)",
+      "lang": "th"
+    },
+    {
+      "content": "Fuku",
+      "lang": "th"
+    },
+    {
+      "content": "Karmakamet",
+      "lang": "th"
+    },
+    {
+      "content": "เต่าบิน",
+      "lang": "th"
+    },
+    {
+      "content": "Dairy Queen",
+      "lang": "th"
+    },
+    {
+      "content": "เมเจอร์",
+      "lang": "th"
+    },
+    {
+      "content": "สเวนเซ่นส์",
+      "lang": "th"
+    },
+    {
+      "content": "เต่าบิน",
+      "lang": "th"
+    },
+    {
+      "content": "Dairy Queen",
+      "lang": "th"
+    },
+    {
+      "content": "KFC",
+      "lang": "th"
+    },
+    {
+      "content": "เมเจอร์",
+      "lang": "th"
+    },
+    {
+      "content": "SF Cinema",
+      "lang": "th"
+    },
+    {
+      "content": "สเวนเซ่นส์",
+      "lang": "th"
+    },
+    {
+      "content": "truecoffee",
+      "lang": "th"
+    },
+    {
+      "content": "major",
+      "lang": "th"
+    },
+    {
+      "content": "amazon",
+      "lang": "th"
+    },
+    {
+      "content": "kfc",
+      "lang": "th"
+    },
+    {
+      "content": "Major",
+      "lang": "th"
+    },
+    {
+      "content": "potato",
+      "lang": "th"
+    },
+    {
+      "content": "ชาตรามือ",
+      "lang": "th"
+    },
+    {
+      "content": "Amazon",
+      "lang": "th"
+    },
+    {
+      "content": "grab",
+      "lang": "th"
+    },
+    {
+      "content": "อเมซอน",
+      "lang": "th"
+    },
+    {
+      "content": "koi",
+      "lang": "th"
+    },
+    {
+      "content": "gaga",
+      "lang": "th"
+    }
+  ],
+  "PrivilegeFood": [
+    {
+      "content": "Cafe Amazon",
+      "lang": "th"
+    },
+    {
+      "content": "Dairy Queen (DQ)",
+      "lang": "th"
+    },
+    {
+      "content": "KFC",
+      "lang": "th"
+    },
+    {
+      "content": "KOI Thé",
+      "lang": "th"
+    },
+    {
+      "content": "GAGA",
+      "lang": "th"
+    },
+    {
+      "content": "Ochaya",
+      "lang": "th"
+    },
+    {
+      "content": "Dunkin'",
+      "lang": "th"
+    },
+    {
+      "content": "Potato Corner",
+      "lang": "th"
+    },
+    {
+      "content": "Swensen's",
+      "lang": "th"
+    },
+    {
+      "content": "Auntie Anne's",
+      "lang": "th"
+    },
+    {
+      "content": "Bearhouse",
+      "lang": "th"
+    },
+    {
+      "content": "Burger King",
+      "lang": "th"
+    },
+    {
+      "content": "McDonald's (MC)",
+      "lang": "th"
+    },
+    {
+      "content": "Mister Donut",
+      "lang": "th"
+    },
+    {
+      "content": "Sushi-ro",
+      "lang": "th"
+    },
+    {
+      "content": "Taobin",
+      "lang": "th"
+    },
+    {
+      "content": "All Cafe (7-11)",
+      "lang": "th"
+    },
+    {
+      "content": "Fuku",
+      "lang": "th"
+    },
+    {
+      "content": "Karmakamet",
+      "lang": "th"
+    },
+    {
+      "content": "เต่าบิน",
+      "lang": "th"
+    },
+    {
+      "content": "Dairy Queen",
+      "lang": "th"
+    },
+    {
+      "content": "สเวนเซ่นส์",
+      "lang": "th"
+    },
+    {
+      "content": "เต่าบิน",
+      "lang": "th"
+    },
+    {
+      "content": "Dairy Queen",
+      "lang": "th"
+    },
+    {
+      "content": "truecoffee",
+      "lang": "th"
+    },
+    {
+      "content": "amazon",
+      "lang": "th"
+    },
+    {
+      "content": "kfc",
+      "lang": "th"
+    },
+    {
+      "content": "potato",
+      "lang": "th"
+    },
+    {
+      "content": "Amazon",
+      "lang": "th"
+    },
+    {
+      "content": "gaga",
+      "lang": "th"
+    }
+  ],
+  "PrivilegeEntertainment": [
+    {
+      "content": "SF Cinema",
+      "lang": "th"
+    },
+    {
+      "content": "Major Cineplex",
+      "lang": "th"
+    },
+    {
+      "content": "เมเจอร์",
+      "lang": "th"
+    },
+    {
+      "content": "major",
+      "lang": "th"
+    },
+    {
+      "content": "เมเจอร์",
+      "lang": "th"
+    },
+    {
+      "content": "SF Cinema",
+      "lang": "th"
+    },
+    {
+      "content": "Major",
+      "lang": "th"
+    }
+  ],
+  "Freebies": [
+    {
+      "content": "True Bonus",
+      "lang": "th"
+    },
+    {
+      "content": "Thank You",
+      "lang": "th"
+    },
+    {
+      "content": "Free Internet",
+      "lang": "th"
+    },
+    {
+      "content": "Free call",
+      "lang": "th"
+    },
+    {
+      "content": "Game",
+      "lang": "th"
+    },
+    {
+      "content": "เกม",
+      "lang": "th"
+    },
+    {
+      "content": "ฟรี",
+      "lang": "th"
+    },
+    {
+      "content": "Thank You",
+      "lang": "th"
+    },
+    {
+      "content": "แจก",
+      "lang": "th"
+    },
+    {
+      "content": "ทรูโบนัส",
+      "lang": "th"
+    },
+    {
+      "content": "โบนัส",
+      "lang": "th"
+    },
+    {
+      "content": "แจกเน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "รับเน็ต",
+      "lang": "th"
+    },
+    {
+      "content": "สมัครเน้ตฟรี",
+      "lang": "th"
+    }
+  ],
+  "AfterSaleService": [
+    {
+      "content": "แจก (Giveaway)",
+      "lang": "th"
+    },
+    {
+      "content": "Jaidee Services",
+      "lang": "th"
+    },
+    {
+      "content": "Emergency",
+      "lang": "th"
+    },
+    {
+      "content": "Jaidee Emergency Refill",
+      "lang": "th"
+    },
+    {
+      "content": "โอนคอย",
+      "lang": "th"
+    },
+    {
+      "content": "eSIM",
+      "lang": "th"
+    },
+    {
+      "content": "สิทธิพิเศษ",
+      "lang": "th"
+    },
+    {
+      "content": "newest",
+      "lang": "th"
+    },
+    {
+      "content": "ซื้อวัน",
+      "lang": "th"
+    },
+    {
+      "content": "บริการ",
+      "lang": "th"
+    },
+    {
+      "content": "เติมวัน",
+      "lang": "th"
+    },
+    {
+      "content": "esim",
+      "lang": "th"
+    }
+  ],
+  "Devices": [
+    {
+      "content": "iPhone (ไอโฟน)",
+      "lang": "th"
+    },
+    {
+      "content": "iPad (ไอแพด)",
+      "lang": "th"
+    },
+    {
+      "content": "Apple Watch",
+      "lang": "th"
+    },
+    {
+      "content": "Samsung",
+      "lang": "th"
+    },
+    {
+      "content": "VIVO",
+      "lang": "th"
+    },
+    {
+      "content": "OPPO",
+      "lang": "th"
+    },
+    {
+      "content": "iphone",
+      "lang": "th"
+    },
+    {
+      "content": "โทรศัพท์",
+      "lang": "th"
+    }
+  ],
+  "VIPCategoryCPGroup": [
+    {
+      "content": "TrueCoffee",
+      "lang": "th"
+    },
+    {
+      "content": "All Cafe (7-11)",
+      "lang": "th"
+    },
+    {
+      "content": "True Sphere",
+      "lang": "th"
+    },
+    {
+      "content": "7-11",
+      "lang": "th"
+    },
+    {
+      "content": "True ID",
+      "lang": "th"
+    },
+    {
+      "content": "True Vision",
+      "lang": "th"
+    },
+    {
+      "content": "TrueOnline",
+      "lang": "th"
+    },
+    {
+      "content": "truecoffee",
+      "lang": "th"
+    },
+    {
+      "content": "ดูบอล",
+      "lang": "th"
+    },
+    {
+      "content": "truecoffee",
+      "lang": "th"
+    },
+    {
+      "content": "ทรูไอดี",
+      "lang": "th"
+    },
+    {
+      "content": "ทรู",
+      "lang": "th"
+    }
+  ]
+}
